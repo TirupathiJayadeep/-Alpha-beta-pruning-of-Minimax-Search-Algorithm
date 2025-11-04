@@ -217,6 +217,9 @@ if __name__ == "__main__":
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/99a33390-fa11-4ade-a19f-e93bcd7aaec9)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/440797bd-53cb-49c1-b18d-89776864c3e7)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
+## Output:
+<img width="547" height="942" alt="image" src="https://github.com/user-attachments/assets/ec6b1857-0835-4d0e-98dc-a38193af9486" />
+<img width="606" height="551" alt="image" src="https://github.com/user-attachments/assets/c5dde315-d688-4e71-8ef5-29688c5e8497" />
 
 ## RESULT :
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
